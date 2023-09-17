@@ -517,8 +517,12 @@ section {
 }
 
 .section-bg {
-  background-color: #f3f5fa;
+  background-color: whitesmoke;
 }
+.section-bg.rate-card {
+  background-color: rgb(228, 227, 227);
+}
+
 
 .section-title {
   text-align: center;
@@ -1113,7 +1117,7 @@ section {
 
 .team .member .pic {
   overflow: hidden;
-  width: 180px;
+  width: 100px;
   border-radius: 50%;
 }
 
